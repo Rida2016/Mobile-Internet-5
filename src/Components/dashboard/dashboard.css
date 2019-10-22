@@ -69,6 +69,7 @@ body {
     justify-content: space-between;
     padding-left: 166px;
     padding-right: 166px;
+
 }
 
 .dashboard .presentation .top .slogan h1 {
@@ -89,7 +90,7 @@ body {
 
 .dashboard .presentation .top img {
     width: 55vh;
-    margin-bottom: -16.5vh;
+    margin-bottom: 16.5vh;
     object-fit: contain;
     z-index: 2;
     align-self: center;
@@ -196,7 +197,7 @@ body {
     font-family: lombok;
     color: white;
     text-transform: uppercase;
-    -webkit-background-clip: text;
+    -webkit-background-clip:text;
     -webkit-text-fill-color: transparent;
     z-index: 3;
 }
